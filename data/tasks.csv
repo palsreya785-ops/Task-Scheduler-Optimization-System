@@ -1,0 +1,8 @@
+Task,Priority,Deadline,ExecutionTime,Profit
+Testing,5,3,2,40
+Login API,5,5,4,50
+Payment Module,4,8,5,80
+UI Design,3,10,6,60
+Documentation,2,12,5,20
+Database Backup,1,30,3,15
+AI Model Training,5,35,6,100
